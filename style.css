@@ -18,8 +18,8 @@ nav {
 }
  h1 {
     float: none;
-    background-color: teal;
-    font-size: x-large;
+    background-color:transparent;
+    font-size: 35px;
     font-weight: 400;
     font-family: monospace;
 }
@@ -64,9 +64,9 @@ a.nav-item {
 }
 
 .container {
-    margin: 0;
+    margin: auto;
     border: white;
-    padding: 20%;
+    padding: 5% 20%;
     font-size: xx-large;
     line-height: normal;
     font-family: monospace;
@@ -78,7 +78,7 @@ a.nav-item {
     margin: auto;
     width: auto;
     height: auto;
-    background-color: white;
+    background-color: transparent;
     line-break: auto;
 
 }
