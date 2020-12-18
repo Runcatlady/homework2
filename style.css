@@ -95,6 +95,42 @@ a.nav-item {
 
 }
 
+.container2 {
+    font-family: monospace;
+    padding: 10%;
+    margin: auto;
+    border: white;
+    padding: 5% 20%;
+    font-size: xx-large;
+    line-height: normal;
+    font-family: monospace;
+    background-color: cadetblue;
+    
+}
+
+.card {
+    margin: 5% 20% 20% 5%;
+}
+
 .card-body {
-    align-content: right;
+    font-family: monospace;
+    color: teal;
+}
+
+input[type="Message"].::-webkit-input-placeholder {
+
+}
+
+button { 
+    margin: 10px 0px 10px 10px;
+}
+
+.container3 {
+    margin-top: 10%;
+    float: center;
+}
+
+.container4 {
+
+
 }
