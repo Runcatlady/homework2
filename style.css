@@ -94,3 +94,7 @@ a.nav-item {
     line-break: auto;
 
 }
+
+.card-body {
+    align-content: right;
+}
