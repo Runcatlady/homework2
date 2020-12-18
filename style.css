@@ -1,20 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    margin: 0;
     font-family: monospace;
-    font-size: large;
-    line-height: 1.5;
+    font-size: 18px;
+    line-height: 27px;
     background-color: lightslategray;
     color: white;
 
 }
 
+
 nav { 
     
-    margin: auto;
-    width: max-content;
-    height: max-content;
-    background-color: teal;
-    padding: 25%;
+    padding: 10%;
 }
  h1 {
     float: none;
@@ -32,6 +32,12 @@ nav {
     margin-left: unset;
     font-weight: 400;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-brand {
+    padding: 1%;
+    background-color: cadetblue;
+    color: white;
 }
 
 .nav-item {
@@ -52,15 +58,21 @@ nav {
     padding-bottom: .5rem;
 }
 
+
+.navbar-nav {
+    margin-left: auto;
+    float: right;
+  }
+
 a.nav-item {
-    float: left;
-    font-size: xx-large;
+;
+    font-size: 30px;
     font-family: monospace;
     color: white;
 }
 
 .nav-link active {
-    float: left;
+    float: inline-start;
 }
 
 .container {
