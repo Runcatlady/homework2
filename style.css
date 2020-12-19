@@ -117,8 +117,9 @@ a.nav-item {
     color: teal;
 }
 
-input[type="Message"].::-webkit-input-placeholder {
-
+.card-text {
+    font-size: 30px;
+    
 }
 
 button { 
@@ -134,3 +135,16 @@ button {
 
 
 }
+
+.whitespace {
+    margin: 5% 20%;
+    background-color: white;
+    font-family: monospace;
+    
+}
+
+p {
+    font-family: monospace;
+    font-size: 18px;
+}
+
