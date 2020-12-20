@@ -2,7 +2,7 @@
 
 ## Repository for Homework 2 - Responsive Portfolio
 
-The CSS and Bootstrap Responsive Portfolio needs to show the implementation of the Bootstrap framework be using their grid systems and components. There are 3 pages that need to incorporate these things: a Portfolio page, an About page, and a Contact page.
+The CSS and Bootstrap Responsive Portfolio needs to show the implementation of the Bootstrap framework by using their grid systems and components. There are 3 pages that need to incorporate these things: a Portfolio page, an About page, and a Contact page.
 
 All the pages use a consistent Navbar with the appropriate About, Contact, and Portfolio links and a Footer. 
 
