@@ -19,7 +19,7 @@ https://Runcatlady.github.io/homework2/
 
 ## Installation 
 
-The files needed are all contained inside the repository. The main folder (homework2) needs to include the assets folder as well as the index.html file. If all the folders and file are included in that order, the index.html file will be able to access the images needed to run the project successfully.
+The files needed are all contained inside the repository. The main folder (homework2) needs to include the assets folder as well as the index.html file and the style.css file. If all the folders and files are included in that order, the index.html file will be able to access the images needed to run the project successfully.
 
 ## Usage
 
